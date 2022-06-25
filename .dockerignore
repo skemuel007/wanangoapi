@@ -1,0 +1,9 @@
+#Ignore the logs directory
+logs/
+
+.git
+.cache
+
+node_modules/
+dist/
+*.md
